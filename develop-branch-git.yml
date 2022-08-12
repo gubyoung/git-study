@@ -1,0 +1,3 @@
+git barnch develop
+git switch develop
+git add .
