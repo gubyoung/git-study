@@ -8,4 +8,3 @@ git:
   example2: "git restore --source [commit hash] [file name]"
   example3: "git restore --staged [file name]"
   example4: "git restore --staged #5"
-  example5: "git restore --staged #6"
