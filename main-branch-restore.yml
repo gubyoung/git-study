@@ -4,5 +4,5 @@ git:
     - git restore --source [commit hash] [fine name] : 특정 파일 특정 commit 으로 복구하기
     - git restore --staged [file name] : Staging Area에 올라간 파일 다시 Unstaging 하기
 
-  example: "git restore [file name]"
-    
+  example1: "git restore [file name]"
+  example2: "git restore --source [commit hash] [file name]"
